@@ -7,7 +7,6 @@ import network
 import machine
 import re
 
-#you foolish
 
 
 # 全局变量，标记led灯
